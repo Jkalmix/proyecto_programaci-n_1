@@ -2,7 +2,7 @@
 Proyecto de programación # 1
 
 
-# 📚 Proyecto: Catálogo de Libros Raros
+# 📚 Proyecto: El Umbral de Papel
 
 Este proyecto es una aplicación enfocada en la venta de libros nuevos y de segunda mano, en especial ediciones y ejemplares peculiares y raros de segunda mano. A continuación, se documentan las decisiones de diseño para la identidad visual y estructura inicial.
 
@@ -37,6 +37,5 @@ Disponible en `/branding`.
 
 Logo y eslogan están ubicados en `/branding`.
 
-> "Tu próximo libro raro te está esperando"
 
 
