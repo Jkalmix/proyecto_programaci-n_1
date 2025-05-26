@@ -1,41 +1,32 @@
-# proyecto_programaci-n_1
-Proyecto de programación # 1
+ 💰 Proyecto: Gestor de Finanzas Personales
+
+Este proyecto es una aplicación de escritorio desarrollada en Python, diseñada para ayudar a los usuarios a gestionar sus ingresos y gastos de forma sencilla y eficiente. Su objetivo principal es proporcionar una visión clara de la situación financiera personal, permitiendo un mejor control y planificación para el futuro.
+
+## 🎯 Objetivos del Sprint #1: Diseño Conceptual y Visual
+
+El primer sprint se enfoca en establecer la identidad visual y la estructura fundamental de la aplicación a través de elementos de diseño clave y maquetas iniciales.
+
+* **Definir la Paleta de Colores:** Selección y justificación de los colores primarios, secundarios y de acento que conformarán la identidad visual de la aplicación.
+* **Diseñar el Logo y el Slogan:** Creación de un logo distintivo y un eslogan conciso que comuniquen la propuesta de valor de la aplicación.
+* **Crear Maquetas Básicas (Mockups):** Desarrollo de bocetos visuales de las pantallas clave de la aplicación para establecer su estructura y flujo de usuario.
+
+---
+
+## 🎨 Paleta de Colores
+
+La paleta de colores ha sido cuidadosamente seleccionada para transmitir confianza, estabilidad y claridad, atributos esenciales en una aplicación de gestión financiera. Los detalles y la justificación completa de cada color pueden encontrarse en el documento `palette_justification.md` dentro de la carpeta `/docs/design/`.
 
 
-# 📚 Proyecto: El Umbral de Papel
+---
 
-Este proyecto es una aplicación enfocada en la venta de libros nuevos y de segunda mano, en especial ediciones y ejemplares peculiares y raros de segunda mano. A continuación, se documentan las decisiones de diseño para la identidad visual y estructura inicial.
+## 💡 Logo y Slogan
 
-## 🎯 Objetivos de la primera entrega
+Se ha diseñado un logo y un slogan que encapsulan la esencia y los beneficios de la aplicación. La justificación detallada de su diseño y la simbología detrás de ellos se encuentran en el documento `logo_slogan_justification.md` en la carpeta `/docs/design/`.
 
-1. Crear un mockup básico de la aplicación.
-2. Definir paleta de colores y tipografía.
-3. Diseñar un logo y eslogan.
+---
 
-## 🖼️ Mockup
+## 🖼️ Maquetas (Mockups)
 
-Los mockups se encuentran en la carpeta `/mockups`.
+Las maquetas básicas de la aplicación han sido diseñadas para visualizar la estructura, disposición de los elementos y el flujo principal del usuario. Estas maquetas servirán como guía para la implementación de la interfaz de usuario.
 
-## 🎨 Paleta de Colores y Tipografía
-
-Disponible en `/branding`.
-
-- **Colores:**
-
-  - Fondo: #FDF6E3 (beige tipo papel antiguo)
-  - Principal: #5D3A00 (marrón oscuro)
-  - Secundario: #D9A066 (dorado suave)
-  - Accentos: #A7281D (rojo vino)
-
-
-- **Tipografía:**
-
-  - Títulos: Playfair Display (clásico, elegante)
-  - Texto: Open Sans o Lora
-
-## 🖌️ Logo y Eslogan
-
-Logo y eslogan están ubicados en `/branding`.
-
-
-
+Las imágenes de los mockups se encuentran disponibles en la carpeta `/docs/mockups/`.
